@@ -127,6 +127,11 @@ input[type=submit] {
 	position: relative;
 }
 
+.project img{
+	height:200px;
+	width:200px;
+}
+
 .project h3 {
 	border-bottom: 0;
 	background: #4aaaa5;
